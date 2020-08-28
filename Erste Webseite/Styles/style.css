@@ -1,0 +1,43 @@
+html{
+  font-size: 15px;
+  font-family: Russo One;
+  background-color: #05F339;
+
+}
+body{
+  width: 800px;
+  margin: 0 auto;
+  background-color: #555333;
+  padding: 0 60px 20px 60px;
+  border: 3px solid black;
+}
+h1{
+  margin: 0px;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px -3px 1px black;
+  font-size: 28px;
+  text-align: center;
+}
+button{
+  margin: 0 auto;
+}
+img{
+  display:block;
+  margin: 0 auto;
+}
+h3, p{
+  font-size: 15px;
+  text-align: center;
+  padding: 5px 0 5px 0;
+  line-heigt: 2px;
+  letter-spacing: 1px;
+}
+ul{
+  align-self: center;
+}
+li{
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+}
